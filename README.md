@@ -2,6 +2,8 @@
 
 BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
+https://user-images.githubusercontent.com/5246983/136761867-d821e2c1-c51b-4564-80c7-61faf0569d25.mp4
+
 ## Dataset
 src: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 - Entries: 8,522
